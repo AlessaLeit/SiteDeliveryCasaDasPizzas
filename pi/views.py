@@ -688,7 +688,7 @@ def revisar_pedido(request):
         msg_encoded = urllib.parse.quote(message)
 
         # Redirecionar para link do WhatsApp
-        url_whatsapp = f"https://wa.me/5547996312284?text={msg_encoded}"
+        url_whatsapp = f"https://wa.me/WhatsApp?text={msg_encoded}"
         return redirect(url_whatsapp)
 
     # Adiciona observacao a cada pizza
