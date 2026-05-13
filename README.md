@@ -1,6 +1,15 @@
 # 🍕 Casa das Pizzas - Sistema de Pedidos Online
 
-Uma plataforma web moderna e acessível para gestão de pedidos de pizzaria, focada na experiência do usuário e na facilidade de fechamento de pedidos via dispositivos móveis e desktop.
+Uma plataforma web moderna e acessível para gestão de pedidos de pizzaria, focada na experiência do usuário e na facilidade de fechamento de pedidos via dispositivos móveis e desktop. O projeto foi desenvolvido para a conclusão do módulo Jovem Programador Web do Senac em conjunto da empresa familiar Casa das Pizzas.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Core**: Django 5.x
+- **Database**: SQLite (Desenvolvimento)
+- **Front-end**: JavaScript (Vanilla), CSS3 (Custom Properties), Font Awesome.
+- **Integração**: WhatsApp Web URL API.
 
 ---
 
@@ -64,14 +73,6 @@ Olá, me chamo Alessandra Leite!
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- **Core**: Django 5.x
-- **Database**: SQLite (Desenvolvimento)
-- **Front-end**: JavaScript (Vanilla), CSS3 (Custom Properties), Font Awesome.
-- **Integração**: WhatsApp Web URL API.
-
----
 
 ## 🔧 Instalação e Setup
 
