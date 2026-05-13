@@ -1,10 +1,5 @@
 # 🍕 Casa das Pizzas - Sistema de Pedidos Online
 
-!Django
-!HTML5
-!CSS3
-!JavaScript
-
 Uma plataforma web moderna e acessível para gestão de pedidos de pizzaria, focada na experiência do usuário e na facilidade de fechamento de pedidos via dispositivos móveis e desktop.
 
 ---
