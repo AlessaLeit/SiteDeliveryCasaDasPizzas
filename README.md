@@ -13,10 +13,12 @@ Uma plataforma web moderna e acessível para gestão de pedidos de pizzaria, foc
 
 ### 1. Fluxo de Identificação e Seleção
 Navegação intuitiva desde o acesso, cadastro de novos clientes até a escolha técnica do produto (tamanhos e sabores).
+
 ![Navegação Inicial](readme/navegacao_inicial.gif)
 
 ### 2. Finalização e Integração com WhatsApp
 Processo de revisão minuciosa, escolha de pagamento, endereço e o envio automatizado dos dados formatados para o WhatsApp do estabelecimento.
+
 ![Fluxo de Pedido](readme/fluxo_finalizacao.gif)
 
 ---
